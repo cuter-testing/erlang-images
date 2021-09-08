@@ -1,1 +1,1 @@
-FROM erlang:21.3
+FROM erlang:22.3
